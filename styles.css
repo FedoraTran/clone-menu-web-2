@@ -102,7 +102,13 @@ body {
 
 .category-section .nav-arrow {
   font-size: 20px;
-  color: var(--text-gray);
+  background: var(--primary-orange);
+  display: flex;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  height: 44px;
+  width: 44px;
 }
 
 .product-section {
